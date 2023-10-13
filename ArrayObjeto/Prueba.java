@@ -9,9 +9,7 @@ public class Prueba {
      * de un computador a buscar en la tienda
      */
     public static void main(String[] args) {
-       
-   
-       
+              
         Tienda tienda = new Tienda("Tienda Cuántica", "Pepito Pérez", 123456, 5);
         Computadores computador1 = new Computadores("Acer", 50, "Intel iCore 7", "Windows", 18500000);
         Computadores computador2 = new Computadores("Toshiba", 80, "Intel iCore 5", "Windows", 15500000);
